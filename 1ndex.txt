@@ -1,1 +1,3 @@
 0. kembali ke menu
+1.coba.txt
+2. nama.txt
